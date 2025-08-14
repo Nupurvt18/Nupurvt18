@@ -20,7 +20,7 @@ I'm a third-year student in Computer Science and Engineering, passionate about s
 |------------------------|-------------------------------------------------------------------|
 | 💻 Languages           | Python, Java, SQL                                                 |
 | 🔧 DA/DS               | Scikit-learn, pandas, NumPy, OpenCV, PowerBI, Tableau, Excel, ML  |
-| 🌐 Web & DB            | HTML, CSS, JavaScript, PHP, MySQL, AJAX, XML, XSLT                |
+| 🌐 Web & DB            | HTML, CSS, JavaScript, MySQL, XML                                 |
 
 ## 📫 Let's Connect!
 
