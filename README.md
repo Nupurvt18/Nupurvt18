@@ -16,13 +16,11 @@ I'm a third-year student in Computer Science and Engineering, passionate about s
 
 ## 🚀 Tech Stack
 
-| Domain                  | Technologies                                               |
-|------------------------|------------------------------------------------------------|
-| 💻 Languages           | Python, Java, SQL                                          |
-| 🔧 Tools/Frameworks    | TensorFlow, Keras, Scikit-learn, pandas, NumPy, OpenCV     |
-| 🌐 Web & DB            | HTML, CSS, JavaScript, PHP, MySQL, AJAX, XML, XSLT         |
-| 🧠 ML/DL               | SVM, Random Forest, Logistic Regression, Neural Networks   |
-
+| Domain                  | Technologies                                                     |
+|------------------------|-------------------------------------------------------------------|
+| 💻 Languages           | Python, Java, SQL                                                 |
+| 🔧 DA/DS               | Scikit-learn, pandas, NumPy, OpenCV, PowerBI, Tableau, Excel, ML  |
+| 🌐 Web & DB            | HTML, CSS, JavaScript, PHP, MySQL, AJAX, XML, XSLT                |
 
 ## 📫 Let's Connect!
 
